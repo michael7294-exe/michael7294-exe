@@ -5,7 +5,7 @@
 
 - 🔭 Hoje Trabalho com Front-end
 
-- 🌱 Estudando Reactjs
+- 🌱 Estudando Reactjs e praticando muito.
 
 - 💬 Contate-me no email: lopezmadri@gmail.com
 
